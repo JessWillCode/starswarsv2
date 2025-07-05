@@ -44,7 +44,7 @@ npm run dev
 
 ## 💫 Live Demo
 
-[🔗 View Deployed App Here](#)
+[🔗 View Deployed App Here](https://starswarsv2.onrender.com)
 
 ## 🧑‍💻 Author
 
